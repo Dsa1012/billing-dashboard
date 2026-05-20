@@ -1,0 +1,24 @@
+# Python
+backend/venv/
+backend/__pycache__/
+backend/app/__pycache__/
+**/__pycache__/
+*.pyc
+*.pyo
+
+# Entorno local
+backend/.env
+
+# Node
+frontend/node_modules/
+
+# Excel y archivos temporales
+~$*
+*.tmp
+
+# Cloudflared
+scripts/cloudflared.exe
+
+# OS
+.DS_Store
+Thumbs.db

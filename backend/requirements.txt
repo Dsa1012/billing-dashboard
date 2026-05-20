@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+openpyxl==3.1.2
+python-dotenv
+pydantic>=2.5
+websockets
